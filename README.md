@@ -48,11 +48,6 @@
 # 🐱 Gato aleatório
 ![Gato aleatório](https://cataas.com/cat)
 
----
-
-## 📫 Como falar comigo
-- Aqui pelo GitHub por enquanto!  
-- (Se quiser adicionar email ou LinkedIn, posso colocar aqui para você.)
 
 ---
 <div> 
