@@ -9,7 +9,7 @@
 
 ## 🧑‍💻 Sobre mim
 - 📌 Estudando atualmente: **MySQL**
-- 💻 Linguagens que utilizo: **Python**, **JavaScript** e **MySQL**
+- 💻 Linguagens que utilizo: **Python**, **JavaScript**, **LuaC**, **HTML** e **MySQL**
 - 🧠 Focado em lógica de programação, automações e projetos pessoais
 
 ---
