@@ -8,8 +8,8 @@
 ---
 
 ## 🧑‍💻 Sobre mim
-- 📌 Estudando atualmente: **MySQL**
-- 💻 Linguagens que utilizo: **Python**, **JavaScript**, **LuaC**, **HTML** e **MySQL**
+- 📌 Estudando atualmente: **PHP**
+- 💻 Linguagens que utilizo: **Python**, **JavaScript**, **LuaC**, **HTML**, **MySQL** e **PHP8**
 - 🧠 Focado em lógica de programação, automações e projetos pessoais
 
 ---
